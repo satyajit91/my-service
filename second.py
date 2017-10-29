@@ -1,0 +1,1 @@
+print" my second class  at grey atom"
